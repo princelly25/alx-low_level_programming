@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 2936e649e730e0154229a5b0434681de1468a272
 #include "main.h"
 
 /**
@@ -24,7 +20,3 @@ char *_memset(char *s, char b, unsigned int n)
 	return (s);
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 2936e649e730e0154229a5b0434681de1468a272
